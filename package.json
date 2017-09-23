@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erfranson/bamazon/issues"
   },
-  "homepage": "https://github.com/erfranson/bamazon#readme"
+  "homepage": "https://github.com/erfranson/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
 }
